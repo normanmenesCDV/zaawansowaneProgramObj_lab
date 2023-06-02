@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[2]zajecia", "[2]zajecia\[2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[1]zajecia", "[1]zajecia\[1]zajecia.csproj", "{6DA3F5D3-156C-4379-8E5D-CDCFF755C175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[3]zajecia", "[3]zajecia\[3]zajecia.csproj", "{BD5C86AA-90A8-4D50-A9CA-00CC090EDB01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "[3]zajecia", "[3]zajecia\[3]zajecia.csproj", "{BD5C86AA-90A8-4D50-A9CA-00CC090EDB01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
